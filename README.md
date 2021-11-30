@@ -1,5 +1,8 @@
 # BOFTraining
 BOFTraining
 
-Docs: https://enderspub.e-cyber.ee/bof-01
-Dosc: https://enderspub.e-cyber.ee/bof-02
+1: https://enderphan.kubertu.com/buffer-overflow/bof-01-basic
+
+2: https://enderphan.kubertu.com/buffer-overflow/bof-02-basic
+
+3: https://enderphan.kubertu.com/buffer-overflow/bof-03-basic
